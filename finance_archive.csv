@@ -1,0 +1,3 @@
+ID,Date,Category,Type,Amount,Note,Bank,Paid From Bank,Purpose,IsLoan,IsInvestment
+c504169c-a86a-4f38-9a8d-bf5ca2ad74bc,2025-06-17,Personal,Income,100000.0,Loan repayment from Mr.Thanushka ,Commercial Bank,,,True,False
+edc2a6ed-7eb7-409c-b444-85a26b41dc97,2025-06-17 00:00:00,Personal,Expense,100000.0,Loan to Mr.Thanushka ,,Commercial Bank,11-06-2025 petty cash lone ,True,False

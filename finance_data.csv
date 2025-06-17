@@ -1,0 +1,4 @@
+ID,Date,Category,Type,Amount,Note,Bank,Paid From Bank,Purpose,IsLoan,IsInvestment
+60cb90f6-549a-440b-97f9-8548524016c3,2025-06-17,Villa,Income,283678.32,Starting balance  ,Commercial Bank,,,False,False
+ba4ca953-1ea0-4b87-8e5f-90f32be15a01,2025-06-17,Personal,Expense,100000.0,Loan to Mr.Thanushka,,Commercial Bank,credit lone ,True,False
+014313ee-9e20-4f0e-9110-1214bb9addd2,2025-06-17,Personal,Income,87.29,Starting balance,DFCC Bank,,,False,False
